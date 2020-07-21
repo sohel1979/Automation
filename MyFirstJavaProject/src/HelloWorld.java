@@ -4,4 +4,7 @@ public class HelloWorld {
     }
 
     int x = 5;
+    public void creatMethod(){
+
+    }
 }
